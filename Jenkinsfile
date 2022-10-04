@@ -1,6 +1,6 @@
 pipeline{  
     environment {
-    registry = "hfirdhows/myrepo"
+    registry = "buvanasenthil/myrepo"
     }
   agent any
   stages {
